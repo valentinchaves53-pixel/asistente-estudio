@@ -5,7 +5,7 @@ Agente de IA creado en Microsoft Foundry que ayuda a estudiar.
 ## ¿Qué hace?
 - Explica temas de forma clara y corta, en español.
 - Si no sabe algo, lo dice.
-
+  
 ## Tecnologías
 - Microsoft Foundry
 - Modelo gpt-5-mini
@@ -19,9 +19,11 @@ Escribile en el chat, por ejemplo:
 - "Resumime este texto: ..."
 
 ## Próximas mejoras
-- Subir PDFs de apuntes para que responda con ese contenido.
 - Que tome exámenes y corrija las respuestas.
-- Agregar capturas del agente funcionando.
+- 
+ ## Ejemplo
+
+![Resumen de un PDF](captura-agente.png) 
 
 ## Autora
 Valeria Fernández
